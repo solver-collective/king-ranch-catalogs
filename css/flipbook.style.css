@@ -2101,5 +2101,5 @@
 
 /* flipbook overrides */
 :root {
-  --flipbook-link-color-hover: rgba(0, 0, 0, 0);
+  --flipbook-link-color-hover: rgba(0, 0, 0, 0) !important; /* override JS */
 }
